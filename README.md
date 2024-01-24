@@ -29,7 +29,7 @@ You can check out the live demo of the portfolio at [Your Demo Link Here].
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/soursecodee000/Professional-portfolio-in-html-css-and-javascript.git
 
 
 1.Open the project folder:
