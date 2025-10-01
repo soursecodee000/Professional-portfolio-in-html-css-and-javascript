@@ -628,22 +628,22 @@ body
 
  @keyframes animate-path1{
     100%{
-        stroke-dashoffset: 230;
+        stroke-dashoffset: 205;
     }
 }
 @keyframes animate-path2{
     100%{
-        stroke-dashoffset:200;
+        stroke-dashoffset:198;
     }
 }
  @keyframes animate-path3{
     100%{
-        stroke-dashoffset: 210;
+        stroke-dashoffset: 202;
     }
 } 
  @keyframes animate-path4{
     100%{
-        stroke-dashoffset: 230;
+        stroke-dashoffset: 205;
     }
 } 
 
@@ -1199,4 +1199,5 @@ body
     }
 
 }
+
 
