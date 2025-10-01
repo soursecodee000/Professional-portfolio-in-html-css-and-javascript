@@ -475,22 +475,22 @@ body
     width: 95%;
 }
 .progress-line.django span{
-    width: 60%;
+    width: 99%;
 }
 
 .progress-line.matlab span{
-    width: 70%;
+    width: 100%;
 }
 
 .progress-line.automation span{
-    width: 85%;
+    width: 95%;
 }
 .progress-line.java span{
-    width: 60%;
+    width: 100%;
 }
 
 .progress-line.php span{
-    width: 80%;
+    width: 99%;
 }
 
 .progress-line span::before{
@@ -527,25 +527,25 @@ body
 
 
 .progress-line.django span::after {
-    content: "60%";
+    content: "99%";
 }
 
 .progress-line.matlab span::after {
-    content: "70%";
+    content: "100%";
 }
 
 .progress-line.automation span::after {
-    content: "89%";
+    content: "95%";
 }
 
 .progress-line.python span::after {
     content: "95%";
 }
 .progress-line.java span::after {
-    content: "60%";
+    content: "100%";
 }
 .progress-line.php span::after {
-    content: "80%";
+    content: "99%";
 }
 
 
@@ -1197,4 +1197,5 @@ body
         transform: translateY(0px);
         opacity: 1;
     }
+
 }
