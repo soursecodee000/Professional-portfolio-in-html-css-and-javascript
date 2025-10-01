@@ -633,7 +633,7 @@ body
 }
 @keyframes animate-path2{
     100%{
-        stroke-dashoffset:250;
+        stroke-dashoffset:200;
     }
 }
  @keyframes animate-path3{
@@ -1199,3 +1199,4 @@ body
     }
 
 }
+
